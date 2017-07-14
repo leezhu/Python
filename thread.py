@@ -1,4 +1,6 @@
 #encoding=utf-8
+#describe:python线程练习
+#time:20160603
 import threading
 import time
 
